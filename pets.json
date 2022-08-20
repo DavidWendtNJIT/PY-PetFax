@@ -11,8 +11,13 @@
         "pet_fact": "Rabbits have almost 360° vision but are born with their eyes shut"
     },{   
         "pet_id": 3,
-        "pet_name": "Max",
-        "pet_photo": "https://raw.githubusercontent.com/HackerUSA-CE/petfax-app/main/assets/karsten-winegeart-5PVXkqt2s9k-unsplash.jpg?token=AGGJTZZBBZGP6TBRXXCLNDLBIJXHU",
-        "pet_fact": "A dog’s nose print is unique, much like a person’s fingerprint"
+        "pet_name": "Georgie",
+        "pet_photo": "https://images.unsplash.com/photo-1592754862816-1a21a4ea2281?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+        "pet_fact": "Georgie likes to fish and catch small mouth bass"
+    },{   
+        "pet_id": 4,
+        "pet_name": "Louie",
+        "pet_photo": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=994&q=80",
+        "pet_fact": "He like's doing backflips!"
     }
 ]
